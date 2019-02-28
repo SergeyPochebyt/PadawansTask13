@@ -10,7 +10,7 @@ namespace PadawansTask13
     class Employee
     {
         private string _surname;
-        private readonly int _age;
+        private int _age;
 
         public Employee()
         {
