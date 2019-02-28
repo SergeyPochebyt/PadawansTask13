@@ -34,7 +34,7 @@ namespace PadawansTask13
 
         public string EmployeeInfo()
         {
-            return $"Surname:{_surname},Age:{_age}";
+            return $"Surname: {_surname}, Age: {_age}";
         }
 
     }
